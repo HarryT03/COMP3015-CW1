@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2424A6AC-480B-441A-94EA-86C5C10C6ABF}|Project_Template.vcxproj|C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\scenebasic_uniform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2424A6AC-480B-441A-94EA-86C5C10C6ABF}|Project_Template.vcxproj|solutionrelative:scenebasic_uniform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2424A6AC-480B-441A-94EA-86C5C10C6ABF}|Project_Template.vcxproj|C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\scenebasic_uniform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2424A6AC-480B-441A-94EA-86C5C10C6ABF}|Project_Template.vcxproj|solutionrelative:scenebasic_uniform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2424A6AC-480B-441A-94EA-86C5C10C6ABF}|Project_Template.vcxproj|C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\shader\\skybox.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2424A6AC-480B-441A-94EA-86C5C10C6ABF}|Project_Template.vcxproj|solutionrelative:shader\\skybox.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2424A6AC-480B-441A-94EA-86C5C10C6ABF}|Project_Template.vcxproj|C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\shader\\skybox.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2424A6AC-480B-441A-94EA-86C5C10C6ABF}|Project_Template.vcxproj|solutionrelative:shader\\skybox.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2424A6AC-480B-441A-94EA-86C5C10C6ABF}|Project_Template.vcxproj|C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\shader\\basic_uniform.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2424A6AC-480B-441A-94EA-86C5C10C6ABF}|Project_Template.vcxproj|solutionrelative:shader\\basic_uniform.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2424A6AC-480B-441A-94EA-86C5C10C6ABF}|Project_Template.vcxproj|C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\shader\\basic_uniform.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2424A6AC-480B-441A-94EA-86C5C10C6ABF}|Project_Template.vcxproj|solutionrelative:shader\\basic_uniform.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scenebasic_uniform.cpp",
+              "DocumentMoniker": "C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\scenebasic_uniform.cpp",
+              "RelativeDocumentMoniker": "scenebasic_uniform.cpp",
+              "ToolTip": "C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\scenebasic_uniform.cpp",
+              "RelativeToolTip": "scenebasic_uniform.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAJ8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T14:32:15.508Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scenebasic_uniform.h",
+              "DocumentMoniker": "C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\scenebasic_uniform.h",
+              "RelativeDocumentMoniker": "scenebasic_uniform.h",
+              "ToolTip": "C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\scenebasic_uniform.h",
+              "RelativeToolTip": "scenebasic_uniform.h",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T14:35:44.347Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "skybox.vert",
+              "DocumentMoniker": "C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\shader\\skybox.vert",
+              "RelativeDocumentMoniker": "shader\\skybox.vert",
+              "ToolTip": "C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\shader\\skybox.vert",
+              "RelativeToolTip": "shader\\skybox.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-18T10:29:22.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "skybox.frag",
+              "DocumentMoniker": "C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\shader\\skybox.frag",
+              "RelativeDocumentMoniker": "shader\\skybox.frag",
+              "ToolTip": "C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\shader\\skybox.frag",
+              "RelativeToolTip": "shader\\skybox.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-18T10:29:21.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "basic_uniform.frag",
+              "DocumentMoniker": "C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\shader\\basic_uniform.frag",
+              "RelativeDocumentMoniker": "shader\\basic_uniform.frag",
+              "ToolTip": "C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\shader\\basic_uniform.frag",
+              "RelativeToolTip": "shader\\basic_uniform.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-14T15:01:59.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "basic_uniform.vert",
+              "DocumentMoniker": "C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\shader\\basic_uniform.vert",
+              "RelativeDocumentMoniker": "shader\\basic_uniform.vert",
+              "ToolTip": "C:\\Users\\hjtro\\OneDrive\\Documents\\Plymouth University\\Computer Science\\Module 3015\\CW1\\Project_Template\\shader\\basic_uniform.vert",
+              "RelativeToolTip": "shader\\basic_uniform.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-14T15:01:58.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
