@@ -45,7 +45,7 @@ void SceneBasic_Uniform::initScene()
     prog.setUniform("Spot.Exponent", 50.0f);
     prog.setUniform("Spot.Cutoff", glm::radians(15.0f));
 
-    prog.setUniform("Fog.MaxDist", 100.0f);
+    prog.setUniform("Fog.MaxDist", 20.0f);
     prog.setUniform("Fog.MinDist", 1.0f);
     prog.setUniform("Fog.Color", vec3(0.5f));
 
